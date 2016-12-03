@@ -1,0 +1,123 @@
+<resources>
+    <string name="app_name">Swipeefy</string>
+
+    <!-- Strings related to LoginActivity -->
+
+    <string name="action_login">Login</string>
+    <string name="action_sign_up">Sign up</string>
+    <string name="text_sign_up">Not a member?</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="error_invalid_user_credentials">Entered information is incorrect. Please try again.</string>
+    <string name="error_connection_failed">Connection to server failed. Please try again later.</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+
+    <!-- Strings related to AccountCreationActivity -->
+    <string name="text_create_account">Create your account</string>
+    <string name="prompt_name_or_company">Name or company</string>
+    <string name="prompt_mobile_number">Mobile number</string>
+    <string name="text_terms">By clicking on the button, I agree with the terms (LINK NEEDED).
+        An automatic phone call will be made to your number to verify the account.</string>
+    <string name="action_create_account">Create your account</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+
+    <!-- Strings related to IntroGroupsFragment1  -->
+    <string name="text_create_group">Create a group of people you\'d like to text.</string>
+    <string name="prompt_name_of_group">Group name</string>
+    <string name="prompt_sender">Sender</string>
+    <string name="action_import">Import</string>
+    <string name="action_manually">Manually add</string>
+    <string name="prompt_first_name">First name</string>
+    <string name="prompt_last_name">Last name</string>
+    <string name="prompt_number">Phone number</string>
+    <string name="action_add">Add contact</string>
+    <string name="text_add_to_address_book">Also add contact to phone\'s address book.</string>
+    <string name="action_create_group">Create group</string>
+    <string name="title_activity_create_message">CreateMessageActivity</string>
+    <string name="text_create_group_intro1">Welcome to the 46elks app - the app that let\'s you send
+        SMS to people without having to worry about being texted back.
+        \n\n
+        The first step to get started is to create a group of recipients you\'d like to text. Name
+        the group along with who the receiver will see that the SMS is from below!</string>
+    <string name="text_create_group_intro2">Now, either import contacts from your phone\'s address
+        book or add them manually to populate the group.</string>
+    <string name="action_populate_group">Populate group</string>
+
+    <!-- Strings related to CreateMessageFragment -->
+    <string name="text_create_message">Write a message you\'d like to send to the group and label it.</string>
+    <string name="prompt_message_label">Message label</string>
+    <string name="prompt_message_text">Message text</string>
+    <string name="action_create_message">Create message (this doesn\'t send it)</string>
+    <string name="action_delete_message">Delete message</string>
+
+    <!-- Strings related to CreateMessageFragment -->
+    <string name="action_edit_message">Edit message</string>
+    <string name="text_edit_message">Edit your message label or text</string>
+
+    <!-- Strings related to SendMessageFragment -->
+    <string name="text_group_name">Group name</string>
+    <string name="text_group_name_ftu">Visitors</string>
+    <string name="text_message_name_ftu">Send your first SMS!</string>
+    <string name="text_message_name">Send an SMS!</string>
+    <string name="action_send_message">Send</string>
+    <string name="text_message">Hi!
+        \n
+        \nThis is an example of how the text message might look,
+        containing some information for the receiver.
+        \n
+        \nBest regards,
+        \n
+        \nSender</string>
+
+    <!-- Strings related to ContactsFragment -->
+    <string name="text_contacts">Contacts</string>
+    <string name="action_add_contact">Add contact</string>
+    <string name="text_choose_contacts">Choose contacts</string>
+    <string name="action_choose_contacts">Done</string>
+
+    <!-- Strings related to CreateContactActivity -->
+    <string name="text_create_contact">Add new contact</string>
+    <string name="prompt_contact_first_name">First name</string>
+    <string name="prompt_contact_last_name">Last name</string>
+    <string name="prompt_contact_number">Mobile number</string>
+    <string name="action_create_contact">Done</string>
+    <string name="error_invalid_number">Number must be 10 digits long</string>
+
+
+    <!-- Strings related to EditContactActivity -->
+    <string name="text_edit_contact">Edit Contact</string>
+    <string name="action_edit_contact">Edit</string>
+    <string name="action_delete_contact">Delete</string>
+
+    <!-- Strings related to GroupsFragment -->
+    <string name="text_groups">Groups</string>
+    <string name="action_add_group">Add group</string>
+    <string name="text_choose_groups">Choose groups</string>
+    <string name="action_choose_groups">Done</string>
+
+    <!-- Strings related to AddGroupActivity -->
+    <string name="text_add_group">Create Group</string>
+    <string name="action_add_group_cancel">Cancel</string>
+
+    <!-- Strings related to EditGroupActivity -->
+    <string name="text_edit_group">Edit Group</string>
+    <string name="action_edit_group">Edit</string>
+    <string name="action_delete_group">Delete</string>
+
+    <!-- Strings related to HistoryFragment -->
+    <string name="text_history">History</string>
+
+    <!-- Strings related to SettingsFragment -->
+    <string name="text_settings">Settings</string>
+    <string name="text_log_out">Log out</string>
+    <string name="title_activity_login2">Sign in</string>
+    <string name="action_sign_in">Sign in or register</string>
+
+</resources>
+

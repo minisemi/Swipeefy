@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>Swipeefy</title>
+<h2>Swipeefy</h2>
 </head>
 <body>
 
